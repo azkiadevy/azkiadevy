@@ -11,7 +11,7 @@ I’m a Software Quality Assurance Engineert, or in the other words I'm help the
 
 ✨ I also somethimes sharing anything about QA at [instagram qa.things](https://www.instagram.com/qa.things/)
 
-⚡ [My portofolio here](https://www.notion.so/devyazkia/Devy-Azkia-Putri-9f968f82b80c4b0f898506bbc93d9d3d?pvs=4)
+⚡ [My portofolio here](https://devyazkia.notion.site/Devy-Azkia-Putri-9f968f82b80c4b0f898506bbc93d9d3d?pvs=4)
 <!--
 **azkiadevy/azkiadevy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
